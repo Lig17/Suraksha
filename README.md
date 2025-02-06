@@ -70,15 +70,6 @@ Access to **quality healthcare** remains a significant challenge due to:
 
 ---
 
-## 📌 Getting Started
-
-### **Prerequisites**
-1. Install **Node.js**, **Python 3.x**, and **Docker**.
-2. Set up **MongoDB/PostgreSQL** and **Firebase**.
-3. Configure **Hyperledger Fabric / Ethereum** for blockchain integration.
-
-
-
 ## 🔐 Security & Compliance
 
 - **GDPR & HIPAA Compliance** for data privacy.
