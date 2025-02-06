@@ -60,41 +60,6 @@ Access to **quality healthcare** remains a significant challenge due to:
 
 ---
 
-## 🚀 Tech Stack
-
-### **Frontend**
-- **React.js (Web)** / **Flutter (Mobile)**
-- **Redux / React Context API** (State Management)
-- **Tailwind CSS / Material UI** (UI Design)
-
-### **Backend**
-- **Python (FastAPI / Flask / Django)**
-- **Node.js (Express.js)** (for API Gateway)
-- **Firebase** (Real-time DB & Authentication)
-
-### **Machine Learning & AI**
-- **TensorFlow / PyTorch** (Deep Learning Models)
-- **OpenCV** (Facial & Speech Analysis)
-- **NLP (spaCy, BERT, GPT-based models)** (Medical NLP for symptom analysis)
-- **Scikit-learn / XGBoost** (Predictive Analytics)
-
-### **Blockchain**
-- **Hyperledger Fabric / Ethereum (Smart Contracts)**
-- **IPFS / Decentralized Storage** (Health Data Security)
-- **Solidity** (Smart Contract Development)
-
-### **IoT & Wearables**
-- **Raspberry Pi / Arduino** (Edge Computing)
-- **Bluetooth / 5G Connectivity**
-- **Integration with Apple HealthKit, Google Fit, Fitbit API**
-
-### **Cloud & Infrastructure**
-- **AWS / Google Cloud / Azure** (Cloud Computing & Hosting)
-- **Firebase / Supabase** (DB & Authentication)
-- **MongoDB / PostgreSQL** (Database)
-- **Docker & Kubernetes** (Microservices Deployment)
-
----
 
 ## 📊 Expected Impact
 
