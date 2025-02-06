@@ -70,14 +70,6 @@ Access to **quality healthcare** remains a significant challenge due to:
 
 ---
 
-## 🔐 Security & Compliance
-
-- **GDPR & HIPAA Compliance** for data privacy.
-- **AES-256 Encryption** for sensitive user data.
-- **Zero Trust Architecture** for secure authentication.
-
----
-
 ## 💡 Future Roadmap
 
 ✔️ **Phase 1:** AI-powered health monitoring & doctor recommendations  
