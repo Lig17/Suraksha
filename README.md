@@ -16,7 +16,7 @@ Access to **quality healthcare** remains a significant challenge due to:
 - **Lack of preventive care**, leading to late diagnoses and overburdened hospitals.
 - **Inefficient monitoring & outbreak detection**, delaying necessary interventions.
 
-**SURAKSHA** addresses these issues by offering a **scalable, AI-powered healthcare ecosystem** for early detection, remote consultation, and real-time health analytics.
+**SURAKSHA** addresses these issues by offering a **scalable, AI-powered healthcare ecosystem** for early detection, remote consultation, and real-time health analytics- thereby, mobile health and telemedicine are the ultimate objectives!
 
 ---
 
